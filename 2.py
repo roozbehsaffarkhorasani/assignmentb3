@@ -1,9 +1,5 @@
 a=[1,2,3,0,78]
 for  i in range (len(a)-1):
     if a[i]>a[i+1]:
-        print("ma nemitonim dorost konim ")
+        print("ma nemitonim dorost konim")
         break
-    elif a[i]==a[i+1]:
-        print("ma nemitonim dorost konim " )
-    else;
-        print("ma mitionim dorost konim")
